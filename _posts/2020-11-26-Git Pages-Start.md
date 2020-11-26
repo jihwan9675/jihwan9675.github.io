@@ -1,3 +1,14 @@
+---
+title:  "github.io 블로그 시작하기"
+excerpt: "Github Pages Blog 시작하기"
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2020-11-26T08:06:00-05:00
+---
+
 # Github Pages Blog 시작
 
 ## 1. 블로그를 시작하는 이유
