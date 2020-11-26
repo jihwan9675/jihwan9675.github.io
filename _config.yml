@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name             : "Shinjihwan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.jpeg"
   bio              : "불치하문"
-  location         : "Sooncheonhyang University"
+  location         : "North Suwon"
   email            : "jihwan9675@gamil.com"
   links:
     - label: "Email"
