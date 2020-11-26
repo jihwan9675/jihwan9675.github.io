@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Shinjihwan"
-  # avatar           : "/assets/images/logo.jpeg"
+  avatar           : "/assets/images/logo.jpeg"
   bio              : "불치하문"
   location         : "North Suwon"
   email            : "jihwan9675@gamil.com"
