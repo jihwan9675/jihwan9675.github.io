@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "프로젝트"
-    url: /collection-archive/
+    url: /posts/
   - title: "TIL"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "코딩테스트"
