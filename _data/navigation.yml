@@ -1,12 +1,12 @@
 # main links
 main:
+  - title: "프로젝트"
+    url: /collection-archive/
   - title: "TIL"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "코딩테스트"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "포스트"
+    url: /year-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
