@@ -16,7 +16,7 @@ last_modified_at: 2020-11-30T08:06:00-05:00
 
 ## 1. Create Github Repository
 
-![_2020-11-30__7.20.21.png](/assets/images/2020-11-30-Create-Github-Pages Blog/_2020-11-30__7.20.21.png)
+![1.png](/assets/images/2020-11-30-Create-Github-Pages-Blog/1.png)
 
 - 1번 박스는 레포지토리 이름을 지정하는 것인데, 본인은 미리 만들어 놨기 때문에 다음과 같은 화면이다. 이름 양식은 `자신의 GithubID.github.io`이다.
 - 2번 박스는 리드미(레포지토리 설명) 파일을 추가하는 것인데 안넣어도 된다.
@@ -37,8 +37,7 @@ last_modified_at: 2020-11-30T08:06:00-05:00
 
 홈페이지의 기초적인 설정을 하는 파일이다. 원하는 대로 설정 값을 변경하도록 한다.
 
-![Github%20Pages%20Blog%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20f6617da7a04648a8acf19ad2e66598e6/_2020-11-30__7.50.11.png](Github%20Pages%20Blog%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20f6617da7a04648a8acf19ad2e66598e6/_2020-11-30__7.50.11.png)
-
+![3.png](/assets/images/2020-11-30-Create-Github-Pages-Blog/3.png)
 ### 2.3 레포지토리에 올리기
 
 ```powershell
@@ -50,13 +49,13 @@ $ git push
 
 다음과 같은 코드로 커밋과 푸쉬를 하여 내 레포에 올린다.
 
-![Github%20Pages%20Blog%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20f6617da7a04648a8acf19ad2e66598e6/_2020-11-30__7.58.54.png](Github%20Pages%20Blog%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20f6617da7a04648a8acf19ad2e66598e6/_2020-11-30__7.58.54.png)
+![4.png](/assets/images/2020-11-30-Create-Github-Pages-Blog/4.png)
 
 ### 2.4 접속해보기
 
 아까 만든 레포지토리 이름 그대로 접속할 수 있다. [https://jihwan9675.github.io/](https://jihwan9675.github.io/)
 
-![Github%20Pages%20Blog%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20f6617da7a04648a8acf19ad2e66598e6/_2020-11-30__8.00.25.png](Github%20Pages%20Blog%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20f6617da7a04648a8acf19ad2e66598e6/_2020-11-30__8.00.25.png)
+![5.png](/assets/images/2020-11-30-Create-Github-Pages-Blog/5.png)
 
 ## 3. 참고 사이트
 
