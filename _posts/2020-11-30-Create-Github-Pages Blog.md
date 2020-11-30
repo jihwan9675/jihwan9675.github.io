@@ -16,7 +16,7 @@ last_modified_at: 2020-11-30T08:06:00-05:00
 
 ## 1. Create Github Repository
 
-![_2020-11-30__7.20.21.png](assets/images/2020-11-30-Create-Github-Pages Blog/_2020-11-30__7.20.21.png)
+![_2020-11-30__7.20.21.png](/assets/images/2020-11-30-Create-Github-Pages Blog/_2020-11-30__7.20.21.png)
 
 - 1번 박스는 레포지토리 이름을 지정하는 것인데, 본인은 미리 만들어 놨기 때문에 다음과 같은 화면이다. 이름 양식은 `자신의 GithubID.github.io`이다.
 - 2번 박스는 리드미(레포지토리 설명) 파일을 추가하는 것인데 안넣어도 된다.
