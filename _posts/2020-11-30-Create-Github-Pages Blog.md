@@ -32,7 +32,7 @@ last_modified_at: 2020-11-30T08:06:00-05:00
 
 먼저 테마를 다운 받아야 한다. [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)에서 Download ZIP을 통해 다운받았다. git clone으로 해도 된다. 각자 편한 방법을 사용하기로 한다.
 
-![_2020-11-30__7.20.21.png](assets/images/2020-11-30-Create-Github-Pages Blog/_2020-11-30__7.20.21.png)
+![2.png](/assets/images/2020-11-30-Create-Github-Pages-Blog/2.png)
 ### 2.2 _config.md 파일 수정
 
 홈페이지의 기초적인 설정을 하는 파일이다. 원하는 대로 설정 값을 변경하도록 한다.
