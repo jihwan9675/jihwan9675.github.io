@@ -1,7 +1,5 @@
 ---
 title:  "Github Pages Blog 생성"
-excerpt: "Github Pages Blog 생성"
-
 categories:
   - Blog
 tags:
