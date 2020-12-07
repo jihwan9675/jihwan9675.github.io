@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "카태고리"
+  - title: "Catrgories"
     url: /categories/list/
   - title: "TIL"
     url: /Blog/
