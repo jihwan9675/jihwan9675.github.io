@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "프로젝트"
-    url: /categories/
+  - title: "카태고리"
+    url: /categories/list/
   - title: "TIL"
     url: /Blog/
   - title: "코딩테스트"
