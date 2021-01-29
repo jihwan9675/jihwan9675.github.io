@@ -2,10 +2,10 @@
 main:
   - title: "Catrgories"
     url: /categories/list/
-  - title: "TIL"
-    url: /Blog/
-  - title: "코딩테스트"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+  #- title: "TIL"
+  #  url: /Blog/
+  #- title: "코딩테스트"
+  #  url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Home"
     url: /
   # - title: "Sitemap"
