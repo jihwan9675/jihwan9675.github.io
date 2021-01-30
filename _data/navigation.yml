@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Catrgories"
-    url: /categories/list/
+    url: /categories/
   #- title: "TIL"
   #  url: /Blog/
   #- title: "코딩테스트"
